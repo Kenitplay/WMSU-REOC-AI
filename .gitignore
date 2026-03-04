@@ -1,6 +1,6 @@
 # Ignore specific data files
 test.csv
-train.csv
+training.csv
 sample-research-proposal.pdf
 sample.docx
 sample.pdf
