@@ -1,0 +1,6 @@
+# Ignore specific data files
+test.csv
+train.csv
+sample-research.pdf
+sample.docx
+sample.pdf
